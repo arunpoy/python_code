@@ -5,3 +5,7 @@ for i in x:
 y = range(5,0,-1)
 for i in  y:
     print(i)
+
+lst = list(range(5))
+print(type(lst))
+print(lst)
